@@ -1,0 +1,12 @@
+{
+  "name": "jira-feature-commits",
+  "owner": { "name": "Aritra Paul" },
+  "metadata": { "description": "The jira-feature-commits skill for Claude Code." },
+  "plugins": [
+    {
+      "name": "jira-feature-commits",
+      "source": "./",
+      "description": "One commit per feature, pushed to the merge request, with one progress comment per feature on the Jira story."
+    }
+  ]
+}

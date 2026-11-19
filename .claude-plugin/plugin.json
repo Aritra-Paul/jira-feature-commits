@@ -1,0 +1,6 @@
+{
+  "name": "jira-feature-commits",
+  "version": "1.0.0",
+  "description": "One commit per feature, pushed to the merge request, with one progress comment per feature on the Jira story.",
+  "author": { "name": "Aritra Paul" }
+}
